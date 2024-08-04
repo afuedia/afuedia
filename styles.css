@@ -1,0 +1,55 @@
+:root {
+    --main-white: #ffffff;   /* Blanco puro */
+    --main-red: #e63946;     /* Rojo coral */
+    --main-blue: #007BFF;    /* Azul oscuro */
+    --main-gray: #a8dadc;    /* Azul cielo claro */
+    --main-green: #457b9d;   /* Verde azulado */
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /* Estilos generales del cuerpo */
+body {
+    font-family: Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+    background-color: var(--main-white);
+    overflow-x: hidden; /* Evitar desplazamiento horizontal */
+  }
+
+  /* Estilos para las secciones */
+section {
+    margin-bottom: 0px; /* Espaciado entre secciones */
+    position: relative; /* Asegurar que las secciones se comporten bien */
+  }
+
+  /* Estilos específicos para la sección welcome */
+#welcome-section {
+    height: 100vh; /* Ocupa el 100% de la altura de la ventana del navegador */
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Alinea el contenido horizontalmente en el centro */
+    }
+
+  #welcome-section p {
+    color: var(--main-blue);;
+  }
+
+  #projects {}
+
+  /* Estilo para centrar los encabezados <h2> en la sección de experiencia */
+
+  #experience h3 {
+  text-align: center;
+}
+
+#education h3 {
+  text-align: center;
+}
+
+
