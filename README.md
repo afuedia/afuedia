@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">Recientemente completé un bootcamp de desarrollo frontend, donde aprendí a construir interfaces web modernas y funcionales. Aunque aún no he trabajado profesionalmente como desarrollador, sigo practicando y mejorando mis habilidades día a día. 🚀</p>
+<p align="left">
+  <strong>Frontend Developer · Docente de Confección y Publicación de Páginas Web</strong><br/>
+  Construyo interfaces <strong>claras, accesibles y mantenibles</strong> con HTML, CSS y JavaScript (React). Enseñar me ha ayudado a afianzar los fundamentos y a comunicar soluciones con claridad.
+</p>
 
 ###
 
@@ -10,7 +13,9 @@
 
 ###
 
-<p align="left">Sigo aprendiendo y trabajando en proyectos personales para mejorar mis habilidades en React y en el desarrollo frontend en general. Siempre estoy abierto a nuevos desafíos y oportunidades para crecer como desarrollador.</p>
+<p align="left">
+  Imparto clases de <strong>HTML, CSS y JavaScript</strong> y desarrollo proyectos personales en React para seguir creciendo. Me enfoco en semántica, responsive, accesibilidad (WCAG), rendimiento y buenas prácticas.
+</p>
 
 ###
 
@@ -18,7 +23,10 @@
 
 ###
 
-<p align="left">Mi objetivo es conseguir mi primera experiencia profesional como desarrollador frontend y seguir ampliando mis conocimientos en el ecosistema de JavaScript.<br><br>📩 ¡Estoy abierto a sugerencias, feedback o colaboración en proyectos interesantes!</p>
+<p align="left">
+  Aportar desde el día uno como <strong>Frontend Developer</strong> en un equipo donde pueda seguir ampliando mi experiencia en el ecosistema de JavaScript.
+</p>
+<p>📩 ¡Estoy abierto a sugerencias, feedback o colaboración en proyectos interesantes!</p>
 
 ###
 
